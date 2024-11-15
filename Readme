@@ -1,0 +1,26 @@
+# Emotional Support Chatbot 🤖💖  
+
+## Overview  
+This repository contains a Jupyter Notebook demonstrating the creation of an **Emotional Support Chatbot**. The chatbot is designed to:  
+1. Understand the user's emotional state using sentiment analysis and emotion detection.  
+2. Respond in a manner that reflects empathy and emotional understanding.  
+
+This project showcases the integration of **Natural Language Processing (NLP)** techniques and machine learning models to build a chatbot capable of emotional intelligence.  
+
+---
+
+## Features  
+- **Emotion Detection**: Classifies user input into emotions such as happiness, sadness, anger, and more.  
+- **Contextual Responses**: Generates responses that align with the detected emotion.  
+- **Deep Learning Models**: Utilizes pre-trained language models like **BERT**, **GPT**, or **RoBERTa** for emotion detection and response generation.  
+- **Interactive Notebook**: Includes code for training, testing, and interacting with the chatbot directly within the notebook.  
+
+---
+
+## Installation  
+To run the notebook, follow these steps:  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/Emotional-Support-Chatbot.git
+   cd Emotional-Support-Chatbot
